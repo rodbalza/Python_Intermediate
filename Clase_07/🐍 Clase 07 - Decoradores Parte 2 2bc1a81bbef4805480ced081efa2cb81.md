@@ -3,9 +3,6 @@
 # Docstrings `__doc__`
 
 ### 📌 Función con docstring
-
-### 📌  **Función sin docstring**
-
 ```python
 def pares():
     """Esta función regresa números pares"""
@@ -18,7 +15,7 @@ print(pares.__doc__)
 # Salida
 Esta función regresa números pares
 ```
-
+### 📌  **Función sin docstring**
 ```python
 def pares():
     pass
